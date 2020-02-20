@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1b05096.chunk.css",
-    "main.js": "/static/js/main.2939d0b2.chunk.js",
-    "main.js.map": "/static/js/main.2939d0b2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.805c9671.js",
-    "runtime-main.js.map": "/static/js/runtime-main.805c9671.js.map",
-    "static/js/2.e6e26631.chunk.js": "/static/js/2.e6e26631.chunk.js",
-    "static/js/2.e6e26631.chunk.js.map": "/static/js/2.e6e26631.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fcc51b32c30e755b488a2218330bda43.js": "/precache-manifest.fcc51b32c30e755b488a2218330bda43.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.e6e26631.chunk.js.LICENSE.txt": "/static/js/2.e6e26631.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/language-cheatsheets/static/css/main.d1b05096.chunk.css",
+    "main.js": "/language-cheatsheets/static/js/main.7249a57b.chunk.js",
+    "main.js.map": "/language-cheatsheets/static/js/main.7249a57b.chunk.js.map",
+    "runtime-main.js": "/language-cheatsheets/static/js/runtime-main.15056202.js",
+    "runtime-main.js.map": "/language-cheatsheets/static/js/runtime-main.15056202.js.map",
+    "static/js/2.e6e26631.chunk.js": "/language-cheatsheets/static/js/2.e6e26631.chunk.js",
+    "static/js/2.e6e26631.chunk.js.map": "/language-cheatsheets/static/js/2.e6e26631.chunk.js.map",
+    "index.html": "/language-cheatsheets/index.html",
+    "precache-manifest.c9fd158efea200a1d30750cfe2bb7471.js": "/language-cheatsheets/precache-manifest.c9fd158efea200a1d30750cfe2bb7471.js",
+    "service-worker.js": "/language-cheatsheets/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/language-cheatsheets/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e6e26631.chunk.js.LICENSE.txt": "/language-cheatsheets/static/js/2.e6e26631.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/language-cheatsheets/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.805c9671.js",
+    "static/js/runtime-main.15056202.js",
     "static/js/2.e6e26631.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.2939d0b2.chunk.js"
+    "static/js/main.7249a57b.chunk.js"
   ]
 }
